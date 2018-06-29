@@ -12,8 +12,11 @@ int main( int argc, char * argv[] ) {
 		"another round of shots\n\n"
 	);
 
-	for( liljon=0; liljohn<10; liljon++ )
+	for( liljon=0; liljon<10; liljon++ )
 		printf("Turn down for what?\n");
 
-	return 0
+	for( liljon=1; (long)liljon<(long)argc; liljon++ )
+		printf("%s\n", argv[liljon]);
+
+	return 0;
 }
