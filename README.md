@@ -1,4 +1,7 @@
 First World Problems
+--------------------
 
-Playgournd for git and github. I try stuff here, so I don't mess things up elsewhere.
+Playgournd for git and github. 
+
+I try stuff here, so I don't mess things up elsewhere.
 
