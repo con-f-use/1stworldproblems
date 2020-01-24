@@ -1,0 +1,17 @@
+*.py[cod]
+__pycache__/
+dist/
+build/
+*.egg-info/
+.eggs/
+_version.py
+pip-wheel-metadata/
+.tox/
+.cache/
+.coverage
+.hypothesis/
+.vscode/
+.envrc
+.direnv/
+.isort.cfg
+
